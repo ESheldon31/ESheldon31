@@ -1,10 +1,12 @@
 ### Hi! Welcome to my Github profile 👋 
 
-## About me
-- :test_tube: A Chemistry graduate from Durham University 
+## :woman_technologist: About me
+Currently studying to be a Data Engineer with AiCore
+- :test_tube: A Chemistry graduate from Durham University, UK 
 - :woman_teacher: Almost ten years' experience as a teacher and teacher trainer
-- :computer: Currently studying to be a Data Engineer with AiCore
-- :mailbox: You can reach out to me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ellie-sheldon-data)
+- :mailbox: You can reach out to me on  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ellie-sheldon-data)
+
+## :hammer_and_wrench: Languages and Tools
 
 <!--
 **ESheldon31/ESheldon31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
