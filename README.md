@@ -22,7 +22,14 @@ Studying to be a Data Engineer with AiCore
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<!--
+
+ 
+ ### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ESheldon31&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ 
+ [![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=esheldon31&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+ <!--
 **ESheldon31/ESheldon31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
