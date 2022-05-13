@@ -5,7 +5,7 @@
 Studying to be a Data Engineer with AiCore
 - :nerd_face: Currently working on a containerized webscraper
 - :test_tube: A Chemistry graduate from Durham University, UK 
-- :woman_teacher: Almost ten years' experience as a teacher and teacher trainer
+- :woman_teacher: Almost ten years' experience as a teacher and teacher trainer. Retraining for a move into Data Engineering.
 - :mailbox: You can reach out to me on  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ellie-sheldon-data)
 
 
